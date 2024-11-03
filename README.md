@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lepusarcticus123
-- 👀 I’m interested in front-end tech
-- 🌱 I’m currently learning Vue and Webpack
+- 👀 front-end
+- 🌱 野蛮生长中...
 
 <!---
 lepusarcticus123/lepusarcticus123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
